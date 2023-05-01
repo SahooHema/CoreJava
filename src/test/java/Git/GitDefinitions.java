@@ -108,15 +108,18 @@ Note:How to remove conflicts? take always pull first and then work on the code a
  git branch (it shows error) so follow below steps:-
  git pull origin java
  git branch (now also pointing to master)
- git checkout java
+ git checkout java (it will reflect branch in eclipse also near project name, need to refresh project)
  git branch ( now pointing to java branch)
- 
- 
- 
- 
- 
- 
- 
+ git status
+ git add . (staging area and shows all file that need to be added)
+ git status (shows all code in green)
+ git commit -m "added gitcommanddetails"
+ git push origin java (refresh github page, see java branch code ,will see new added code)
+ Note: see master branch , no new aaded code in master branch
+ In github , add pull reqrest(PR) and add comments and see reviewers if added their email id .your msg will be notified to the reviewer.
+ Now, reviewer will see the code and cick "+" icon on the code and write comment and send review..
+ Now, click finished review and submit review..
+ Now update code in eclipse and follow above steps to push code to the java branch
  
  
  

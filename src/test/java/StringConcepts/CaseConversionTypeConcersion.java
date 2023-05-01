@@ -19,11 +19,11 @@ public class CaseConversionTypeConcersion {
 char[] c= s.toCharArray();
 		System.out.println(c);
 		
+
 //Note:-Type conversion		
 		
 		
-		
-		
+	
 
 	}
 

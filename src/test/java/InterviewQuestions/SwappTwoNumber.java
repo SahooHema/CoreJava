@@ -22,8 +22,44 @@ public class SwappTwoNumber {
 		System.out.println(a);
 		System.out.println(b);
 //note: without temp variable	
+
 		
-	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		

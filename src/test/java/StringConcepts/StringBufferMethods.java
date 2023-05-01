@@ -51,7 +51,7 @@ public class StringBufferMethods {
 //	System.out.println(sb.replace(0, 4, "mohini"));//mohinio/
 		
 //	System.out.println(sb.reverse());//oohas
-//		
+//	
 //	System.out.println(sb.subSequence(2, 8));//and sa
 //System.out.println(sb.substring(2, 8));
 	
@@ -59,10 +59,10 @@ public class StringBufferMethods {
 		
 		
 		StringBuffer sb6=new StringBuffer("Anand sahoo");
-	sb6.ensureCapacity(100);
-	//	sb6.setCharAt(2,'k');
-	//	sb6.setLength(5);
-	//	sb6.trimToSize();
+        sb6.ensureCapacity(100);
+//	sb6.setCharAt(2,'k');
+//		sb6.setLength(5);
+//		sb6.trimToSize();
 		System.out.println(sb6);
 		
 		

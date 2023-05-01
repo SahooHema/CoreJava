@@ -9,7 +9,7 @@ public class DaemonThreadDemo  extends Thread{
 	}
 
 	public static void main(String[] args) {
-    System.out.println("main thread");
+      System.out.println("main thread");
 		DaemonThreadDemo obj=new DaemonThreadDemo();
 		obj.setDaemon(true);
 		obj.start();

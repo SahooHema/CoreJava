@@ -2,8 +2,7 @@ package Collections;
 
 public class Arrays {
 	
-	/*
-	
+	/*	
 1.store pimitive and non-primitive data(objects)
 	primitve i.e. int..
 	non-primitive i.e.

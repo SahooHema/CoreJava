@@ -22,10 +22,9 @@ Interface explains what to do but not how to do
 cannot create object 
 use implements keyword
 declare method no body 
-only public abstract type method allow in parent class
+only public and  abstract type method allow in parent class
 method overriding can achieve
 Variable/fields can be final, static,public,private, protected
-it supports multiple inheritance
 It supports multiple inheritance
 can achieve loose coupling
 In java8, allow concrete method in parent class , access modifier is default with method body 

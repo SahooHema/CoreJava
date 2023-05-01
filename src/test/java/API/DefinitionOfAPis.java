@@ -68,10 +68,10 @@ eg: linkedin, instagram, twitter etcc...
  3.202:- Aceepted
  4.203:-non-authorative information
 3.204:- deleted(no content)
- 3.401:- unauthorized
+ 3.401:- unauthorized (Authentication )
  4.404:- page not found
  5.405:-method not allowed
- 6.403:-forbideen
+ 6.403:-forbideen(authorization)
  401 Unauthorized is the status code to return when the client provides no credentials or invalid credentials. 403 Forbidden is the status code to return when a client has valid credentials but not enough privileges to perform an action on a resource	
 7.500:- internal server error
 6.	400:- bad request

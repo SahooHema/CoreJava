@@ -32,31 +32,6 @@ we can acheive encapsulation :-
 2.use public getter and setter method to view variable valuessss and modify variable values
 Data hiding: variables can be access by the class and its method inside it, it cannot be accessed outside the class..
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Important Note:constructr, polymorphism, inheritance are code usability
 encapsulation, interface, abstraction are code security
 

@@ -8,7 +8,6 @@ public class ThreadNaming {
 	Thread.currentThread().setName("hema");
 	System.out.println(Thread.currentThread().getName());//hema
 	int a=10/0;//Exception in thread "hema" java.lang.ArithmeticException: / by zero
-
 }
 }
 /*

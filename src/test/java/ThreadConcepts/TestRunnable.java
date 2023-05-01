@@ -1,7 +1,6 @@
 package ThreadConcepts;
 
 public class TestRunnable implements Runnable{
-	
 
 	public void run() {
 		System.out.println("hdfjd");
@@ -14,8 +13,8 @@ public class TestRunnable implements Runnable{
 		Thread th=new Thread(tr);
 		th.start();
 		
-	}
 
+	}
 
 }
 

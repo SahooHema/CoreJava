@@ -2,7 +2,6 @@ package StaticVariable;
 
 public class B {
 	static int a=10;
-	
 //	void show() {
 //		static int b=90;//error
 //	}

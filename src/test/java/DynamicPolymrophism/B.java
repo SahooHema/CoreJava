@@ -5,7 +5,7 @@ package DynamicPolymrophism;
 public class B extends A{
 
  public void show() throws RuntimeException {
-	super.show();
+       super.show();
 		System.out.println("test B");
 	}
 	

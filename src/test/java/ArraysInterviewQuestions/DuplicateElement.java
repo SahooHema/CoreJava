@@ -1,6 +1,7 @@
 package ArraysInterviewQuestions;
 
 import java.util.HashMap;
+
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -66,44 +67,12 @@ public class DuplicateElement {
 		}
 		
 	
+
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	}	
 
 	
 		}
-
-
-	}
-
-
-
-
-
-
-
-
-
-
 
 /*
 1.Brute force method: 

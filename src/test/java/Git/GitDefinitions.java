@@ -36,12 +36,12 @@ push,pull code is happening through git tool
 
 open cmd-> go to project dir -> cd dir
 dir-> initailize git-> git init
-Note:git is initalized for project
+Note:git is initalized for project (working drir )
 git remote add origin https://github.com/SahooHema/JavaConcepts.git 
 Note:link established 
 git status (pending files to add)
-git add .(it will add all files )
-git commit -m"first commit"
+git add .(it will add all files ) ( staging/index)
+git commit -m"first commit" (local repo)
 git push origin master
 
 Note: for pushing ssh key is required
@@ -73,6 +73,67 @@ open cmd->mkdir foldername->enter
 cd foldername->enter
 git clone https://github.com/SahooHema/JavaConcepts->enter
 note:cloning done in this folder
+
+/////////////////////////////////////////
+important interview Questions :-
+1)LifeCycle Of GIT?
+git clone
+checkout feature branch signup
+git add .
+git commit -m "dfdf"
+git push signup branch
+git merge with master branch
+
+2) difference between Git pull and fetch?
+git pull:- take a pull from github repo to eclipse (working directory)
+git fetch:- use fetch command for getting pull from github repo(signup branch) to local repo(signup branch). 
+it will not reflect in eclipse
+use git merge to working dir(eclipse)
+formula for git pull:-
+git pull= git fetch+merge
+
+3) what is PR Process?
+suppose three employee emp1,emp2,emp3. emp1 is TL he push the project code to github and created different branches  i.e. payment an signup.now emp2 & emp3 will pull the code 
+emp2 will add code and push to payment branch in github. Now raise a PR To TL and emp3.If both approves then emp2 will merge payment branch code to master branch
+
+4)How to create branch,checkout and merge?
+cut matser branch and create feature branch then merge feature with master branch.
+In ci/cd create .jar/war file and move to QA env ->prod env
+
+Note:How to remove conflicts? take always pull first and then work on the code and then merge your branch code to the master branch..
+
+
+////////////////////////////Practical use of GIT commands////////////////
+ open cmd-> go the project dir (C:\Users\SUMIT\AutomationProject\JAVA\Hema\JavaConcepts)
+ git branch (it shows error) so follow below steps:-
+ git pull origin java
+ git branch (now also pointing to master)
+ git checkout java
+ git branch ( now pointing to java branch)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 		
 */

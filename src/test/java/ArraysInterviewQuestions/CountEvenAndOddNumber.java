@@ -49,15 +49,7 @@ public class CountEvenAndOddNumber {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 		
 		
 		

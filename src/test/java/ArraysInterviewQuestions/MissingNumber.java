@@ -65,7 +65,7 @@ public class MissingNumber {
 		System.out.println("missing number:"+ (xor1^xor2));
 		
 		
-		
+
 	
 		
 		

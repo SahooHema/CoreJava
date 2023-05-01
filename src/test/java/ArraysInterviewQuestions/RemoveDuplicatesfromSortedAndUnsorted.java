@@ -34,12 +34,7 @@ public class RemoveDuplicatesfromSortedAndUnsorted {
 		for(int no:hs) {
 			System.out.println("sorted removed duplicates list:"+no);
 		}
-		
-	
-		
-		
-		
-		
+
 		
 		
 		

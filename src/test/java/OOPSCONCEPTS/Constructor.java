@@ -29,8 +29,4 @@ public class Constructor {
 //Cons is use to initialize objects variable
 //Cons has no return type
 // Cons can be public,private, default, protected
-
-
-
-
 //note: small talk is pure object oriented programming language;

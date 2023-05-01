@@ -30,7 +30,6 @@ Resources consumption is more
 process require more time for creation
 It takes more time for termination
 
-
 Threads:-
 It is sub part of process(small task)
 It is light weight

@@ -2,6 +2,7 @@ package InterviewQuestions;
 
 public class FibonacaiSeries {
 
+	int a=1;int b=1; int c;
 	public static void main(String[] args) {
 		
 	
@@ -12,11 +13,7 @@ public class FibonacaiSeries {
 		a=b;//1
 		b=c;//2
 	}
-		
-
+	
 	}
-	
-	
-	
-	
+
 }

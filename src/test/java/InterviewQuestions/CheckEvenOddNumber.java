@@ -11,6 +11,32 @@ public class CheckEvenOddNumber {
 			System.out.println("odd number");
 		}
 	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		

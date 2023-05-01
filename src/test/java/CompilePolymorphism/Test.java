@@ -13,7 +13,7 @@ public class Test {
 	
 	
 	public void show(int a) {
-		System.out.println("show test");
+		System.out.println(a);
 	}
 	
 	

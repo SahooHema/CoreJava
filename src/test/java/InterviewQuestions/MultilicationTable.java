@@ -10,7 +10,38 @@ public class MultilicationTable {
 		System.out.println(temp+"="+num+"*"+i);
 	}
 	
-	
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 	}
